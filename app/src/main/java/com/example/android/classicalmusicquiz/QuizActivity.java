@@ -302,6 +302,7 @@ public class QuizActivity extends AppCompatActivity implements View.OnClickListe
     @Override
     public void onClick(View v) {
 
+
         // Show the correct answer.
         showCorrectAnswer();
 
