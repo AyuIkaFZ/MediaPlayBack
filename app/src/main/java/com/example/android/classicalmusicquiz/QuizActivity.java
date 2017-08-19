@@ -291,6 +291,7 @@ public class QuizActivity extends AppCompatActivity implements View.OnClickListe
         mNotificationManager.notify(0, builder.build());
     }
 
+
     /**
      * The OnClick method for all of the answer buttons. The method uses the index of the button
      * in button array to to get the ID of the sample from the array of question IDs. It also
